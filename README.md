@@ -3,6 +3,10 @@ This Repository contains my dissertation project codes.
 It uses a gym environment wrapper from [janwithb](https://github.com/janwithb/carla-gym-wrapper?ref=https://giter.vip) as 
 a skeleton code and I built upon it.
 
+##Output
+#Agent Trained with Masked input
+![](https://github.com/Ajith-Kalyan/201574955-sc21kj-leeds.ac.uk/blob/main/gifs/complex_underbridge_rgb.gif)
+
 ## Features
 - rendering
 - weather
