@@ -5,7 +5,15 @@ a skeleton code and I built upon it.
 
 ## Output
 ### Agent Trained with Masked input
+Even with edges from shadow is visible, the agent navigates through the street easily.
 ![](https://github.com/Ajith-Kalyan/201574955-sc21kj-leeds.ac.uk/blob/main/gifs/complex_underbridge_rgb.gif)  ![](https://github.com/Ajith-Kalyan/201574955-sc21kj-leeds.ac.uk/blob/main/gifs/complex_underbridge_roi.gif)
+
+### Agent during Training 
+![](https://github.com/Ajith-Kalyan/201574955-sc21kj-leeds.ac.uk/blob/main/gifs/while%20learning.gif)  ![](https://github.com/Ajith-Kalyan/201574955-sc21kj-leeds.ac.uk/blob/main/gifs/desktop_rgb.gif)
+
+### Agent in a Tunnel
+![](https://github.com/Ajith-Kalyan/201574955-sc21kj-leeds.ac.uk/blob/main/gifs/tunnel_rgb.gif) ![](https://github.com/Ajith-Kalyan/201574955-sc21kj-leeds.ac.uk/blob/main/gifs/tunnel_roi.gif)
+
 
 ## Features
 - rendering
