@@ -91,7 +91,7 @@ import gym
 import carla_env
 
 
-env = gym.make('CarlaEnv-pixel-v1')
+env = CarlaEnv(True,2000,0.0,1,'pixel',True,'tesla.model3','Town04',False)
 env.reset()
 done = False
 while not done:
@@ -103,7 +103,7 @@ env.close()
 ## Data collection
 How to wrap the environment with the data collection wrapper:
 ```
-env = gym.make('CarlaEnv-pixel-v1')
+env = CarlaEnv(True,2000,0.0,1,'pixel',True,'tesla.model3','Town04',False)
 env = DataCollector(env, steps=200, save_dir='./output')
 ```
 
