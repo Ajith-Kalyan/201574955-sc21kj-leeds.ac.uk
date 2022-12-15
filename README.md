@@ -1,4 +1,4 @@
-# 201594755-sc21kj-leeds.ac.uk
+
 This Repository contains my dissertation project codes. 
 It uses a gym environment wrapper from [janwithb](https://github.com/janwithb/carla-gym-wrapper?ref=https://giter.vip) as 
 a skeleton code and I built upon it.
